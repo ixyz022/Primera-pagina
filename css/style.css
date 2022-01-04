@@ -11,7 +11,7 @@
 html {
     font-size: 62.5%;
     box-sizing: border-box;
-    scroll-snap-type: y mandatory;
+    /** scroll-snap-type: y mandatory; **/
 }
 
 /* Scroll snap */
@@ -254,7 +254,7 @@ h1, h2, h3 {
 }
 
 .campo textarea {
-    height: 20rem;
+    height: 17rem;
 }
 
 .input-text {
